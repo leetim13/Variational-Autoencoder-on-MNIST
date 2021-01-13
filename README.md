@@ -2,9 +2,12 @@ This project implements and investigates the Variational Autoencoder on binarize
 
 ## Implementations include:
 * `Project.toml` packages for the Julia environment.
-* `autograd_starter.py` Python with autograd.
-* `tennis_data.mat` dataset containing outcomes of tennis games.
-* `src.jl` source code in Julia
-* **`Julia-True-Skill-Model-Using-Markov-Chain-Monte-Carlo-Final.ipynb`** the jupyter notebook
+* `variational_autoencoder.py` Python version.
+* `loadMNIST.py` loading MNIST data in Python.
+* `example_flux_model.jl` example flux model in Julia.
+* `vae.jl` source code in Julia.
+* `encoder_params.bson` final params/weights of trained model.
+* `decoder_params.bson` final params/weights of trained model.
+* **`Julia-Variational-Autoencoder-Final.ipynb`** the final jupyter notebook project.
 
 Note: this project is part of of the assignment from Statistical Methods for Machine Learning II at the Univeristy of Toronto.
