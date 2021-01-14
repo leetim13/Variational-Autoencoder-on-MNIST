@@ -1,6 +1,6 @@
 This project implements and investigates the Variational Autoencoder on binarized MNIST digits by building a generative model to infer the bottom half of the given binarized MNIST digits conditioned on the top half of these images.
 
-![](/sample_images/image_conditioned.png)
+![](/sample_images/image_conditioned_more.png)
 ![](/sample_images/image_binarized.png)
 
 ## Implementations include:
