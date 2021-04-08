@@ -13,4 +13,4 @@ This project implements and investigates the Variational Autoencoder on binarize
 * `decoder_params.bson` final params/weights of trained model.
 * **`Julia-Variational-Autoencoder-Final.ipynb`** the final jupyter notebook project.
 
-Note: this project is part of of the assignment from Statistical Methods for Machine Learning II at the Univeristy of Toronto.
+*Note: this project is part of the assignment from Statistical Methods for Machine Learning II at the Univeristy of Toronto.*
